@@ -303,7 +303,7 @@ export default function Home() {
             Pronto a iniziare?
           </h2>
           <p className="text-lg text-primary-100 mb-8 max-w-2xl mx-auto">
-            Unisciti a Medlinker oggi e scopri come possiamo aiutarti a trovare il candidato perfetto o la tua prossima opportunità professionale.
+            Unisciti a MedLinker oggi e scopri come possiamo aiutarti a trovare il candidato perfetto o la tua prossima opportunità professionale.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/registrati">

@@ -1,4 +1,4 @@
-// Types for Medlinker Platform
+// Types for MedLinker Platform
 
 export type Locale = 'it' | 'es';
 

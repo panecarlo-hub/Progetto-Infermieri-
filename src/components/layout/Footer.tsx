@@ -34,7 +34,7 @@ export default function Footer() {
                 <span className="text-white font-bold text-xl">M</span>
               </div>
               <span className="text-xl font-heading font-bold">
-                Med<span className="text-primary-400">linker</span>
+                Med<span className="text-primary-400">Linker</span>
               </span>
             </Link>
             <p className="text-neutral-400 text-sm mb-6">

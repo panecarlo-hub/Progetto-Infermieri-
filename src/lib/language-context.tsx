@@ -17,7 +17,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     // Check for saved locale preference
-    const savedLocale = localStorage.getItem('medilinker-locale') as Locale;
+    const savedLocale = localStorage.getItem('medlinker-locale') as Locale;
     if (savedLocale && (savedLocale === 'it' || savedLocale === 'es')) {
       setLocale(savedLocale);
     }
@@ -25,7 +25,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   const handleSetLocale = (newLocale: Locale) => {
     setLocale(newLocale);
-    localStorage.setItem('medilinker-locale', newLocale);
+    localStorage.setItem('medlinker-locale', newLocale);
   };
 
   const t = (key: string): string => {

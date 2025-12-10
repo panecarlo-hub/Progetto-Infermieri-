@@ -41,8 +41,8 @@ export default function Contatti() {
     {
       icon: <Mail className="w-6 h-6" />,
       label: t('contacts.info.email'),
-      value: 'info@medilinker.it',
-      href: 'mailto:info@medilinker.it',
+      value: 'info@medlinker.it',
+      href: 'mailto:info@medlinker.it',
     },
     {
       icon: <Phone className="w-6 h-6" />,
@@ -287,7 +287,7 @@ export default function Contatti() {
                 Chiamaci ora
               </Button>
             </a>
-            <a href="mailto:info@medilinker.it">
+            <a href="mailto:info@medlinker.it">
               <Button
                 variant="outline"
                 size="lg"

@@ -192,7 +192,7 @@ export default function Servizi() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl font-bold text-neutral-900 mb-4">
-                Perché scegliere Medlinker
+                Perché scegliere MedLinker
               </h2>
               <p className="text-neutral-600 mb-6">
                 Con anni di esperienza nel settore sanitario, offriamo un servizio completo

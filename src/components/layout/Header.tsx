@@ -33,7 +33,7 @@ export default function Header() {
               <span className="text-white font-bold text-xl">M</span>
             </div>
             <span className="text-xl font-heading font-bold text-neutral-800">
-              Med<span className="text-primary-500">linker</span>
+              Med<span className="text-primary-500">Linker</span>
             </span>
           </Link>
 

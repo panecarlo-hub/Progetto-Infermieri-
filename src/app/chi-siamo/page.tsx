@@ -41,7 +41,7 @@ export default function ChiSiamo() {
   ];
 
   const milestones = [
-    { year: '2023', title: 'Fondazione', description: 'Nasce Medlinker con la missione di rivoluzionare il recruiting sanitario' },
+    { year: '2023', title: 'Fondazione', description: 'Nasce MedLinker con la missione di rivoluzionare il recruiting sanitario' },
     { year: '2023', title: 'Prime partnership', description: 'Accordi con le prime strutture sanitarie in Lombardia' },
     { year: '2024', title: 'Espansione', description: 'Apertura a livello nazionale e primi 100 professionisti registrati' },
     { year: '2024', title: 'Internazionalizzazione', description: 'Lancio della piattaforma in spagnolo per il mercato iberoamericano' },
@@ -88,7 +88,7 @@ export default function ChiSiamo() {
                 opportunità di lavoro in Italia, ma si scontrano con barriere burocratiche e linguistiche.
               </p>
               <p className="text-neutral-600">
-                Medlinker nasce per colmare questo gap, creando una piattaforma che semplifica
+                MedLinker nasce per colmare questo gap, creando una piattaforma che semplifica
                 l'incontro tra domanda e offerta, garantendo sicurezza, trasparenza e supporto
                 professionale in ogni fase del processo.
               </p>
@@ -186,7 +186,7 @@ export default function ChiSiamo() {
               Il nostro team
             </h2>
             <p className="text-neutral-600">
-              Un gruppo di professionisti appassionati e dedicati alla missione di Medlinker
+              Un gruppo di professionisti appassionati e dedicati alla missione di MedLinker
             </p>
           </div>
 
@@ -232,7 +232,7 @@ export default function ChiSiamo() {
             </h2>
             <p className="text-white/90 mb-8 max-w-xl mx-auto">
               Che tu sia un professionista sanitario in cerca di opportunità o una struttura
-              in cerca di talenti, Medlinker è qui per te.
+              in cerca di talenti, MedLinker è qui per te.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/registrati">

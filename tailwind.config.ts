@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Palette sanitaria Medlinker
+        // Palette sanitaria MedLinker
         primary: {
           50: '#E8F4FD',
           100: '#C5E4FA',

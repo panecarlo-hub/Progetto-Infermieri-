@@ -44,7 +44,7 @@ export default function Accedi() {
               {t('auth.login.title')}
             </h1>
             <p className="text-neutral-500 mt-2">
-              Bentornato su Medlinker
+              Bentornato su MedLinker
             </p>
           </div>
 
