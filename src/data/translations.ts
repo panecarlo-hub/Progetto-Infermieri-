@@ -20,7 +20,7 @@ export const translations: { it: Translation; es: Translation } = {
     // Hero Section
     hero: {
       title: 'La piattaforma che connette il talento sanitario con le opportunità',
-      subtitle: 'MediLinker è il punto di incontro tra professionisti sanitari qualificati e strutture mediche italiane. Trova il candidato perfetto o la tua prossima opportunità professionale.',
+      subtitle: 'Medlinker è il punto di incontro tra professionisti sanitari qualificati e strutture mediche italiane. Trova il candidato perfetto o la tua prossima opportunità professionale.',
       ctaEmployer: 'Cerca professionisti',
       ctaWorker: 'Trova lavoro',
       trustedBy: 'Già scelto da',
@@ -28,7 +28,7 @@ export const translations: { it: Translation; es: Translation } = {
     },
     // Features
     features: {
-      title: 'Perché scegliere MediLinker',
+      title: 'Perché scegliere Medlinker',
       subtitle: 'Una piattaforma completa per il recruiting sanitario',
       verified: {
         title: 'Profili verificati',
@@ -169,8 +169,8 @@ export const translations: { it: Translation; es: Translation } = {
     // About Us
     aboutUs: {
       title: 'Chi siamo',
-      subtitle: 'La missione di MediLinker',
-      description: 'MediLinker nasce dalla volontà di creare un ponte tra il talento sanitario internazionale e le strutture mediche italiane che necessitano di personale qualificato.',
+      subtitle: 'La missione di Medlinker',
+      description: 'Medlinker nasce dalla volontà di creare un ponte tra il talento sanitario internazionale e le strutture mediche italiane che necessitano di personale qualificato.',
       mission: {
         title: 'La nostra missione',
         text: 'Facilitare l\'incontro tra domanda e offerta nel settore sanitario, garantendo trasparenza, sicurezza e supporto professionale in ogni fase del processo.',
@@ -289,7 +289,7 @@ export const translations: { it: Translation; es: Translation } = {
         placeholder: 'La tua email',
         submit: 'Iscriviti',
       },
-      copyright: '© 2024 MediLinker. Tutti i diritti riservati.',
+      copyright: '© 2024 Medlinker. Tutti i diritti riservati.',
     },
     // Common
     common: {
@@ -331,7 +331,7 @@ export const translations: { it: Translation; es: Translation } = {
     // Hero Section
     hero: {
       title: 'La plataforma que conecta el talento sanitario con las oportunidades',
-      subtitle: 'MediLinker es el punto de encuentro entre profesionales sanitarios cualificados y estructuras médicas italianas. Encuentra el candidato perfecto o tu próxima oportunidad profesional.',
+      subtitle: 'Medlinker es el punto de encuentro entre profesionales sanitarios cualificados y estructuras médicas italianas. Encuentra el candidato perfecto o tu próxima oportunidad profesional.',
       ctaEmployer: 'Buscar profesionales',
       ctaWorker: 'Buscar trabajo',
       trustedBy: 'Ya elegido por',
@@ -339,7 +339,7 @@ export const translations: { it: Translation; es: Translation } = {
     },
     // Features
     features: {
-      title: 'Por qué elegir MediLinker',
+      title: 'Por qué elegir Medlinker',
       subtitle: 'Una plataforma completa para el reclutamiento sanitario',
       verified: {
         title: 'Perfiles verificados',
@@ -480,8 +480,8 @@ export const translations: { it: Translation; es: Translation } = {
     // About Us
     aboutUs: {
       title: 'Sobre nosotros',
-      subtitle: 'La misión de MediLinker',
-      description: 'MediLinker nace de la voluntad de crear un puente entre el talento sanitario internacional y las estructuras médicas italianas que necesitan personal cualificado.',
+      subtitle: 'La misión de Medlinker',
+      description: 'Medlinker nace de la voluntad de crear un puente entre el talento sanitario internacional y las estructuras médicas italianas que necesitan personal cualificado.',
       mission: {
         title: 'Nuestra misión',
         text: 'Facilitar el encuentro entre oferta y demanda en el sector sanitario, garantizando transparencia, seguridad y apoyo profesional en cada fase del proceso.',
@@ -600,7 +600,7 @@ export const translations: { it: Translation; es: Translation } = {
         placeholder: 'Tu email',
         submit: 'Suscribirse',
       },
-      copyright: '© 2024 MediLinker. Todos los derechos reservados.',
+      copyright: '© 2024 Medlinker. Todos los derechos reservados.',
     },
     // Common
     common: {

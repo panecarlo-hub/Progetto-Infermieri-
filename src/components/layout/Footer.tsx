@@ -34,7 +34,7 @@ export default function Footer() {
                 <span className="text-white font-bold text-xl">M</span>
               </div>
               <span className="text-xl font-heading font-bold">
-                Medi<span className="text-primary-400">Linker</span>
+                Med<span className="text-primary-400">linker</span>
               </span>
             </Link>
             <p className="text-neutral-400 text-sm mb-6">
@@ -122,11 +122,11 @@ export default function Footer() {
             </form>
             <div className="space-y-3">
               <a
-                href="mailto:info@medilinker.it"
+                href="mailto:info@medlinker.it"
                 className="flex items-center space-x-2 text-neutral-400 hover:text-primary-400 transition-colors text-sm"
               >
                 <Mail className="w-4 h-4" />
-                <span>info@medilinker.it</span>
+                <span>info@medlinker.it</span>
               </a>
               <a
                 href="tel:+390212345678"

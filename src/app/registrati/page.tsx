@@ -61,7 +61,7 @@ export default function Registrati() {
               {t('auth.register.title')}
             </h1>
             <p className="text-neutral-500 mt-2">
-              Inizia a usare MediLinker
+              Inizia a usare Medlinker
             </p>
           </div>
 

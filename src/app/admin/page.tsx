@@ -72,7 +72,7 @@ export default function AdminPanel() {
                 <Shield className="w-5 h-5" />
               </div>
               <div>
-                <h1 className="text-lg font-bold">MediLinker Admin</h1>
+                <h1 className="text-lg font-bold">Medlinker Admin</h1>
                 <p className="text-xs text-neutral-400">Pannello di gestione</p>
               </div>
             </div>

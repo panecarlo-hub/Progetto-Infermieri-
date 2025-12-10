@@ -129,7 +129,7 @@ export default function PerLeAziende() {
               {t('forCompanies.benefits.title')}
             </h2>
             <p className="text-neutral-600">
-              MediLinker offre tutti gli strumenti necessari per trovare e assumere personale sanitario qualificato.
+              Medlinker offre tutti gli strumenti necessari per trovare e assumere personale sanitario qualificato.
             </p>
           </div>
 
@@ -202,7 +202,7 @@ export default function PerLeAziende() {
                 {t('forCompanies.requirements.title')}
               </h2>
               <p className="text-neutral-600 mb-6">
-                Per registrare la tua struttura sanitaria su MediLinker, assicurati di avere a portata di mano i seguenti documenti:
+                Per registrare la tua struttura sanitaria su Medlinker, assicurati di avere a portata di mano i seguenti documenti:
               </p>
               <ul className="space-y-4">
                 {requirements.map((req, index) => (
@@ -249,7 +249,7 @@ export default function PerLeAziende() {
               ))}
             </div>
             <blockquote className="text-2xl text-white mb-6 italic">
-              "Grazie a MediLinker abbiamo trovato personale qualificato in tempi record.
+              "Grazie a Medlinker abbiamo trovato personale qualificato in tempi record.
               Il supporto del team è stato fondamentale per gestire tutte le pratiche burocratiche."
             </blockquote>
             <div className="flex items-center justify-center gap-4">

@@ -122,7 +122,7 @@ export default function ComeFunziona() {
             {t('howItWorks.title')}
           </h1>
           <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-            MediLinker rende semplice e sicuro l'incontro tra professionisti sanitari e strutture mediche.
+            Medlinker rende semplice e sicuro l'incontro tra professionisti sanitari e strutture mediche.
             Ecco come funziona per ogni tipo di utente.
           </p>
         </div>
@@ -253,7 +253,7 @@ export default function ComeFunziona() {
                   Sicurezza e conformità GDPR
                 </h2>
                 <p className="text-neutral-600 mb-6">
-                  La protezione dei tuoi dati è la nostra priorità. MediLinker è conforme al GDPR e utilizza
+                  La protezione dei tuoi dati è la nostra priorità. Medlinker è conforme al GDPR e utilizza
                   i più alti standard di sicurezza per proteggere le informazioni personali e i documenti sensibili.
                 </p>
                 <ul className="space-y-3">
@@ -298,7 +298,7 @@ export default function ComeFunziona() {
             Pronto a iniziare?
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            Registrati oggi e scopri tutte le opportunità che MediLinker può offrirti.
+            Registrati oggi e scopri tutte le opportunità che Medlinker può offrirti.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/registrati">

@@ -138,7 +138,7 @@ export default function PerILavoratori() {
               {t('forWorkers.benefits.title')}
             </h2>
             <p className="text-neutral-600">
-              MediLinker ti offre tutti gli strumenti per trovare la tua prossima opportunità professionale in Italia.
+              Medlinker ti offre tutti gli strumenti per trovare la tua prossima opportunità professionale in Italia.
             </p>
           </div>
 
@@ -279,7 +279,7 @@ export default function PerILavoratori() {
               ))}
             </div>
             <blockquote className="text-2xl text-white mb-6 italic">
-              "Grazie a MediLinker ho trovato lavoro in Italia in poche settimane.
+              "Grazie a Medlinker ho trovato lavoro in Italia in poche settimane.
               Il team mi ha aiutato con tutte le pratiche per il riconoscimento del mio titolo."
             </blockquote>
             <div className="flex items-center justify-center gap-4">

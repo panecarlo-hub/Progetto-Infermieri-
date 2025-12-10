@@ -4,12 +4,12 @@ import { LanguageProvider } from "@/lib/language-context";
 import { Header, Footer } from "@/components/layout";
 
 export const metadata: Metadata = {
-  title: "MediLinker - La piattaforma di incontro tra professionisti sanitari e strutture mediche",
-  description: "MediLinker connette personale sanitario qualificato con ospedali, RSA, cliniche private e centri medici italiani. Trova il candidato perfetto o la tua prossima opportunità professionale.",
+  title: "Medlinker - La piattaforma di incontro tra professionisti sanitari e strutture mediche",
+  description: "Medlinker connette personale sanitario qualificato con ospedali, RSA, cliniche private e centri medici italiani. Trova il candidato perfetto o la tua prossima opportunità professionale.",
   keywords: "infermieri, personale sanitario, lavoro sanità, ospedali, RSA, cliniche, recruiting sanitario, Italia",
-  authors: [{ name: "MediLinker" }],
+  authors: [{ name: "Medlinker" }],
   openGraph: {
-    title: "MediLinker - LinkedIn Sanitario",
+    title: "Medlinker - LinkedIn Sanitario",
     description: "La piattaforma che connette il talento sanitario con le opportunità",
     type: "website",
     locale: "it_IT",
