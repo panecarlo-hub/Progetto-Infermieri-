@@ -90,13 +90,13 @@ export default function Footer() {
                 <Mail className="w-4 h-4" />
                 <span>info@medlinker.it</span>
               </a>
-              <a href="tel:+390212345678" className="flex items-center space-x-2 text-neutral-400 hover:text-primary-400 transition-colors text-sm">
+              <a href="tel:+393278811776" className="flex items-center space-x-2 text-neutral-400 hover:text-primary-400 transition-colors text-sm">
                 <Phone className="w-4 h-4" />
-                <span>+39 02 1234 5678</span>
+                <span>+39 327 881 1776</span>
               </a>
               <div className="flex items-center space-x-2 text-neutral-400 text-sm">
                 <MapPin className="w-4 h-4" />
-                <span>Milano, Italia</span>
+                <span>Padova, Italia</span>
               </div>
             </div>
           </div>
@@ -107,7 +107,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <p className="text-neutral-400 text-sm">{t('footer.copyright')}</p>
             <div className="flex items-center space-x-4 mt-4 md:mt-0">
-              <a href="https://wa.me/390212345678" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 bg-green-600 hover:bg-green-700 px-4 py-2 rounded-lg transition-colors text-sm font-medium">
+              <a href="https://wa.me/393278811776" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 bg-green-600 hover:bg-green-700 px-4 py-2 rounded-lg transition-colors text-sm font-medium">
                 <MessageCircle className="w-4 h-4" />
                 <span>{t('contacts.whatsapp')}</span>
               </a>

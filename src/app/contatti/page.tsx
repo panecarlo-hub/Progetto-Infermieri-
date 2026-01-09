@@ -46,13 +46,13 @@ export default function Contatti() {
     {
       icon: <Phone className="w-6 h-6" />,
       label: t('contacts.info.phone'),
-      value: '+39 02 1234 5678',
-      href: 'tel:+390212345678',
+      value: '+39 327 881 1776',
+      href: 'tel:+393278811776',
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       label: t('contacts.info.address'),
-      value: 'Via Milano 123, 20121 Milano (MI)',
+      value: 'Padova (PD), Italia',
       href: null,
     },
     {
@@ -172,7 +172,7 @@ export default function Contatti() {
                     <p className="text-sm text-neutral-600">Rispondiamo in pochi minuti</p>
                   </div>
                 </div>
-                <a href="https://wa.me/390212345678" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/393278811776" target="_blank" rel="noopener noreferrer">
                   <Button className="w-full bg-green-500 hover:bg-green-600">
                     <MessageCircle className="w-4 h-4 mr-2" />
                     {t('contacts.whatsapp')}
@@ -201,7 +201,7 @@ export default function Contatti() {
           <div className="text-center">
             <MapPin className="w-12 h-12 text-neutral-400 mx-auto mb-4" />
             <p className="text-neutral-500">
-              Mappa interattiva - Via Milano 123, 20121 Milano
+              Mappa interattiva - Padova (PD), Italia
             </p>
             <p className="text-sm text-neutral-400 mt-2">
               Qui verrà integrata una mappa Google Maps o simile
@@ -220,7 +220,7 @@ export default function Contatti() {
             Non esitare a contattarci!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+390212345678">
+            <a href="tel:+393278811776">
               <Button size="lg" className="bg-white text-primary-600 hover:bg-neutral-100">
                 <Phone className="w-4 h-4 mr-2" />
                 Chiamaci ora
